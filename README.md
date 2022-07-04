@@ -1,2 +1,2 @@
 # ChecksumDll
-Simple lib for checksum calculation.
+Simple lib for PE checksum calculation.
